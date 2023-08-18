@@ -30,3 +30,14 @@ Two areas to look at:
 ## Limitations
 - When looking at the descriptive statistics, two of the columns we used as measures, total_fatal_inuries and total_uninjured, had very high standard deviations meaning the data was very spread out. Something to consider when interpreting the data.
 - Some aircrafts had very minimal data to work with causing some data visualizations to be taken without proper context.
+
+## Repository Structure
+
+```
+├── data
+├── images
+├── .gitignore
+├── Aviation Data Analysis.pdf
+├── README.md
+└── aviation_data_analysis.ipynb
+```
