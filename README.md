@@ -9,7 +9,17 @@ This project takes a look at the Aviation Accident Dataset which contains data a
 The Aviation Accident Database contains aviation accident data from 1962-2023 with each accident is given a unique ID that displays all the accident and aircraft data associated with that unique ID (e.g. weather, aircraft model, etc.). This project uses descriptive analysis to help discover patterns and trends over time
 
 ## Results
+![DeathsMonth](./images/DeathsMonth.png)
 
+As expected, the number of deaths peak in the summer months. However, the gradual increase shows that temperature is major factor along with it being travel season.
+
+![EngineType](./images/EngineType.png)
+
+The General Turbofan, LR engines, and Reciprocating are relatively safer when compared to the Turbo Fan engine which has the highest number of average deaths.
+
+![InjuryData](./images/InjuryData.png)
+
+When taking a look at all the injury severity data for each aircraft, Boeing has the highest ratio of uninjured to injured.
 
 ## Conclusions
 
@@ -30,6 +40,9 @@ Two areas to look at:
 ## Limitations
 - When looking at the descriptive statistics, two of the columns we used as measures, total_fatal_inuries and total_uninjured, had very high standard deviations meaning the data was very spread out. Something to consider when interpreting the data.
 - Some aircrafts had very minimal data to work with causing some data visualizations to be taken without proper context.
+
+## Take a Deeper Look
+
 
 ## Repository Structure
 
