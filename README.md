@@ -42,7 +42,9 @@ Two areas to look at:
 - Some aircrafts had very minimal data to work with causing some data visualizations to be taken without proper context.
 
 ## Take a Deeper Look
+Check out full analysis in the [Jupyter Notebook](./aviation_data_analysis.ipynb)
 
+To see a quick overview check out this [dashboard](./images/AviationDashboard.png)
 
 ## Repository Structure
 
